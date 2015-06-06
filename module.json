@@ -1,0 +1,11 @@
+{
+	"name": "GA Event Tracking",
+	"description": "Track events in Google Analytics with Wee.",
+	"version": "1.0.0",
+	"author": "TJ Draper",
+	"homepage": "https://buzzingpixel.com",
+	"autoload": true,
+	"dependencies": {
+		"wee": "2.x.x"
+	}
+}
